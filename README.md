@@ -32,6 +32,10 @@ npm start (in the client directory)
 Backend:
 npm start (in the server directory)
 
+Host the application online:
+Frontend: https://food-del-frontend1-efnc.onrender.com
+Admin Page: https://food-del-admin1-g8rv.onrender.com
+
 Contribution:
 Feel free to fork the repository, create issues, and submit pull requests for improvements!
 

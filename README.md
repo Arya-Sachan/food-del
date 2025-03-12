@@ -36,6 +36,3 @@ Contribution:
 Feel free to fork the repository, create issues, and submit pull requests for improvements!
 
 This description covers all the core aspects of your food delivery app, showcasing its features, technology stack, and how to run the app. You can customize it based on any specific features or setup instructions you may have in your project.
-
-
-?

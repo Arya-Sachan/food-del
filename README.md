@@ -19,10 +19,6 @@ Backend: Express.js (for creating a scalable RESTful API)
 Database: MongoDB (for storing data in a flexible, scalable NoSQL database)
 Styling: CSS, Flexbox, and Grid for responsive design
 
-Installation:
-Clone the repository:
-git clone https://github.com/Arya-Sachan/food-del.git
-
 Install dependencies for both frontend and backend:
 
 Frontend:
